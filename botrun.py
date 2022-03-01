@@ -60,5 +60,5 @@ async def Jarvis(ctx):
     await ctx.send(f'Команды:\n1.тест-Создана для проверки работаю ли я.\n2.Jarvis-эта команда вызывает это сообщение.\n3.абгрэйд-эта команда-инструкция по усовершенствования меня.\n4.абгрэйдап-команда котороя сввязывает вас с разработчикам(при использованиии этой команды не по назначению будет бан.\n')
 
 
-bot.run('OTQ3NDA4NjA1NjI2Mzg4NDkw.Yhs1BQ.6_e7MGOd23FO1qa8ivRrkZBKKMg')
+bot.run('OTQ3NDA4NjA1NjI2Mzg4NDkw.Yhs1BQ.MNW7L3oUzRRiWu1Q5Lo0_-pehG4')
 #bot.run(os.getenv('TOKEN'))
